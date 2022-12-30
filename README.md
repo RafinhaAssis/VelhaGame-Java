@@ -10,7 +10,7 @@
 *Como o jogo funciona:*
 
 - Primeiro jogador é aleatório.
-- Aquele que fizer a sequência de uma reta horizontal, vertical ou diagogal faz o ponto.
+- Aquele que fizer a sequência de uma reta horizontal, vertical ou diagonal faz o ponto.
 - Pontos são contabilizados por partida.
 - Os pontos de empate são contabilizados separadamente.
 
