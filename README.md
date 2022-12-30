@@ -17,7 +17,7 @@
 
 - <a href="https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v">Frontend Mentor</a> foi usado como referência para o projeto.
 
-*Objervações:*
+*Observações:*
 
 - Projeto desenvolvido exclusivamente para estudo.
 
@@ -42,7 +42,7 @@
 
 - <a href="https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v">Frontend Mentor</a> was used as a reference for the project.
 
-*Objervations:*
+*Observations:*
 
 - Project developed exclusively for study.
 - Sorry for English, it's not my strong point...
